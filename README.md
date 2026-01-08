@@ -61,7 +61,4 @@ Below are some key figures illustrating the example results:
   ![FirstComponentTimeSeries](figs/FirstComponentTimeSeries.png)
 
 ## Reference
-[A tutorial on generalized eigendecomposition for denoising, contrast enhancement, and dimension reduction in multichannel electrophysiology](https://www.sciencedirect.com/science/article/pii/S1053811921010806)
-
-[Exploring patterns enriched in a dataset with contrastive principal component analysis](https://www.nature.com/articles/s41467-018-04608-8)
-
+Sattari, S., Virji-Babul, N., & Wu, L. C. (2025). Contrast-based artifact removal enables microstate analysis in ambulatory EEG. IEEE Transactions on Biomedical Engineering. DOI: 10.1109/TBME.2025.3630112
