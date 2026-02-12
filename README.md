@@ -1,6 +1,6 @@
-# EEG Motion Artifact Analysis
+# Contrast-based GED cleaning for ambulatory EEG
+> ⭐ Main GED implementation: `src/ged_eeg_analysis/contrast_cleaning.py`
 
-This project is dedicated to improving the quality of EEG recordings by identifying and mitigating motion artifacts. These artifacts, often caused by subject movement or environmental factors, can distort EEG data and lead to inaccurate interpretations. Our goal is to develop robust algorithms that can detect and reduce the impact of these artifacts, enhancing the reliability of EEG analysis.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -10,7 +10,7 @@ This project is dedicated to improving the quality of EEG recordings by identify
 - [License](#license)
 
 ## Introduction
-Motion artifacts in EEG recordings, whether from subject movement, electrode displacement, or environmental interference, introduce noise that can obscure meaningful brain activity. This project focuses on developing advanced methods for detecting and mitigating these artifacts, thereby improving the clarity and usability of EEG data.
+Motion artifacts in EEG recordings, whether from subject movement, electrode displacement, or environmental interference, introduce noise that can obscure meaningful brain activity. This project focuses on developing an unsupervised method for decomposing multichannel EEG to isolate large amplitude artifacts such as motion.
 
 ## Running the Example
 
