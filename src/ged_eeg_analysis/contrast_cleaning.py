@@ -1,3 +1,7 @@
+# REF: Sattari, S., Virji-Babul, N., & Wu, L. C. (2025). 
+    #Contrast-based artifact removal enables microstate analysis in ambulatory EEG. 
+        #IEEE Transactions on Biomedical Engineering. DOI: [10.1109/TBME.2025.3630112]
+
 import pandas as pd
 import numpy as np
 from scipy import linalg
@@ -205,3 +209,4 @@ class ArtifactReconstruct:
 
 
         return results, Maps, fg_clean
+
