@@ -61,4 +61,4 @@ Below are some key figures illustrating the example results:
   ![FirstComponentTimeSeries](figs/FirstComponentTimeSeries.png)
 
 ## Reference
-Sattari, S., Virji-Babul, N., & Wu, L. C. (2025). Contrast-based artifact removal enables microstate analysis in ambulatory EEG. IEEE Transactions on Biomedical Engineering. DOI: [10.1109/TBME.2025.3630112](https://doi.org/10.1109/TBME.2025.3630112)
+Sattari, S., Virji-Babul, N., & Wu, L. C. (2025). Contrast-based artifact removal enables microstate analysis in ambulatory EEG. IEEE Transactions on Biomedical Engineering. DOI: [10.1109/TBME.2025.3630112]([https://doi.org/10.1109/TBME.2025.3630112](https://ieeexplore.ieee.org/abstract/document/11231101/?casa_token=_kscB377Vz8AAAAA:o9dVfpvHmiyyyriKd6LZbHQS0Ramd4RkQXmj17MxlBQpJXjlbLiqp-Hj3se84Clevvf0wIGpJPs)
