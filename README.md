@@ -1,5 +1,5 @@
 # Contrast-based GED cleaning for ambulatory EEG
-> ⭐ Main GED implementation: `src/ged_eeg_analysis/contrast_cleaning.py`
+> Main implementation: `src/ged_eeg_analysis/contrast_cleaning.py`
 
 
 ## Table of Contents
